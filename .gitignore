@@ -95,3 +95,7 @@ local.properties
 .texlipse
 
 # Created by .ignore support plugin (hsz.mobi)
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
